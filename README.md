@@ -1,2 +1,4 @@
-# SYMFONY_REDIS_DEMO
-A little bit of redis config and usage in real app
+SYMFONY_REDIS_DEMO
+==================
+
+A Symfony project created on August 6, 2017, 3:00 pm.
